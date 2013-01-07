@@ -1,0 +1,22 @@
+<div class="row" ng-controller="SampleFormController">
+    <div class="offset3 span6">
+        <form class="form-horizontal" name="sampleForm" ng-model="entity" ng-submit="addEntity" novalidate>
+
+            <div class="control-group" ng-class="{error: sampleForm.surname.$invalid}">
+                <label class="control-label" for="surname" i18n="form.surname"></label>
+                <div class="controls">
+                    <input type="text" ng-model="surname" id="surname" name="surname" required i18n="[placeholder]form.surname" />
+                    <span class="help-inline" ng-show="sampleForm.surname.$error.required" i18n="form.validation.required"></span>
+                </div>
+            </div>
+            <div class="control-group" ng-class="{error: sampleForm.firstname.$invalid}">
+                <label class="control-label" for="firstname" i18n="form.firstname"></label>
+                <div class="controls">
+                    <input type="text" ng-model="firstname" id="firstname" name="firstname" required i18n="[placeholder]form.firstname" />
+                    <span class="help-inline" ng-show="sampleForm.firstname.$error.required" i18n="form.validation.required"></span>
+                </div>
+            </div>
+        </form>
+        <div>{{surname}}<span ng-show="isCommaVisible()">, </span>{{firstname}}</div>
+    </div>
+</div>

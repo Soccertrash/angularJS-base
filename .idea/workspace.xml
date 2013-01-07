@@ -2,6 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d614ffbf-83e8-4d22-a6a1-f93e7b32ede4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/angularjs/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/app/NavigationController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/app/SampleFormController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/bootstrap/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/bootstrap/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/i18n/i18next-1.5.10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/jquery/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/accordion.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/hero-unit.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/labels-badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/layouts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive-1200px-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive-767px-max.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive-768px-979px.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive-navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/sprites.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/bootstrap/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/navbar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angularJS-base.iws" />
@@ -22,8 +78,8 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="responsive.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -31,11 +87,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+            <state line="22" column="13" selection-start="486" selection-end="486" vertical-scroll-proportion="-6.46">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="-14.384615">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="29" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.3076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locales/de-DE/messages.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="12" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SampleFormController.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript/app/SampleFormController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="43" selection-start="301" selection-end="301" vertical-scroll-proportion="0.28385898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="62" selection-start="965" selection-end="965" vertical-scroll-proportion="-16.346153">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="54" selection-start="353" selection-end="353" vertical-scroll-proportion="-3.9230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigationController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/app/NavigationController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="1" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i18next-1.5.10.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/i18n/i18next-1.5.10.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="702" column="17" selection-start="23789" selection-end="23789" vertical-scroll-proportion="-3.3">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,6 +186,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/javascript/jquery/jquery-1.8.3.min.js" />
+        <option value="$PROJECT_DIR$/navbar.html" />
+        <option value="$PROJECT_DIR$/javascript/app/NavigationController.js" />
+        <option value="$PROJECT_DIR$/partials/home.html" />
+        <option value="$PROJECT_DIR$/partials/navbar.html" />
+        <option value="$PROJECT_DIR$/javascript/app/app.js" />
+        <option value="$PROJECT_DIR$/locales/de-DE/messages.json" />
+        <option value="$PROJECT_DIR$/partials/form.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/javascript/app/SampleFormController.js" />
       </list>
     </option>
   </component>
@@ -63,6 +205,43 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>LESS</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LESS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -70,7 +249,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -89,7 +268,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -118,24 +296,106 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="locales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="de-DE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="i18n" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="lessc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css/bootstrap" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\angularJS-base\javascript" />
+      <recent name="D:\Projects\angularJS-base\javascript\bootstrap" />
+      <recent name="D:\Projects\angularJS-base\less\bootstrap" />
+      <recent name="D:\Projects\angularJS-base\css\img" />
+      <recent name="D:\Projects\angularJS-base\javascript\i18n" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\angularJS-base\partials" />
+      <recent name="D:\Projects\angularJS-base" />
+      <recent name="D:\Projects\angularJS-base\javascript\app" />
+      <recent name="D:\Projects\angularJS-base\javascript\i18n" />
+      <recent name="D:\Projects\angularJS-base\css\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -162,6 +422,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="d614ffbf-83e8-4d22-a6a1-f93e7b32ede4" name="Default" comment="" />
       <created>1357592151280</created>
       <updated>1357592151280</updated>
     </task>
@@ -171,22 +432,22 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24944155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -242,16 +503,118 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/angularjs/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/bootstrap/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/bootstrap/accordion.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/jquery/jquery-1.8.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="93583" selection-start="93636" selection-end="93636" vertical-scroll-proportion="0.031135531">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/app/NavigationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="1" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/i18n/i18next-1.5.10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="702" column="17" selection-start="23789" selection-end="23789" vertical-scroll-proportion="-3.3">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="486" selection-end="486" vertical-scroll-proportion="-6.46">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locales/de-DE/messages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="54" selection-start="353" selection-end="353" vertical-scroll-proportion="-3.9230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1370" selection-end="1370" vertical-scroll-proportion="-14.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="62" selection-start="965" selection-end="965" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/app/SampleFormController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="43" selection-start="301" selection-end="301" vertical-scroll-proportion="0.28385898">
           <folding />
         </state>
       </provider>

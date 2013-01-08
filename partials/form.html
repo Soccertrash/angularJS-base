@@ -5,18 +5,19 @@
             <div class="control-group" ng-class="{error: sampleForm.surname.$invalid}">
                 <label class="control-label" for="surname" i18n="form.surname"></label>
                 <div class="controls">
-                    <input type="text" ng-model="surname" id="surname" name="surname" required i18n="[placeholder]form.surname" />
+                    <input type="text" ng-model="entity.surname" id="surname" name="surname" required i18n="[placeholder]form.surname" />
                     <span class="help-inline" ng-show="sampleForm.surname.$error.required" i18n="form.validation.required"></span>
                 </div>
             </div>
             <div class="control-group" ng-class="{error: sampleForm.firstname.$invalid}">
                 <label class="control-label" for="firstname" i18n="form.firstname"></label>
                 <div class="controls">
-                    <input type="text" ng-model="firstname" id="firstname" name="firstname" required i18n="[placeholder]form.firstname" />
+                    <input type="text" ng-model="entity.firstname" id="firstname" name="firstname" required i18n="[placeholder]form.firstname" />
                     <span class="help-inline" ng-show="sampleForm.firstname.$error.required" i18n="form.validation.required"></span>
                 </div>
             </div>
         </form>
-        <div>{{surname}}<span ng-show="isCommaVisible()">, </span>{{firstname}}</div>
+        <pre ng-show="sampleForm.surname.$valid || sampleForm.firstname.$valid ">{{entity.surname}}<span ng-show="isCommaVisible()">, </span>{{entity.firstname}}</pre>
+        <pre ng-show="sampleForm.$valid">{{entity | json }}</pre>
     </div>
 </div>

@@ -40,8 +40,9 @@ angular.module('baseapp.filter', []);
 angular.module('baseapp', ['baseapp.service', 'baseapp.directive', 'baseapp.factory', 'baseapp.filter']).
     config(function ($routeProvider) {
         $routeProvider.
+            when('/home',{templateUrl:'partials/home.html'}).
             when('/form', {templateUrl:'partials/form.html'}).
-            otherwise({redirectTo:'/home', templateUrl:'partials/home.html'});
+            otherwise({redirectTo:'/home'});
     }).
     run(function () {
         $.i18n.init({
